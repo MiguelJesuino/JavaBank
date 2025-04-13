@@ -22,9 +22,16 @@ bin/
 /nbdist/
 /.nb-gradle/
 *.iml
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4347166 (resolvendo conflitos)
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4347166 (resolvendo conflitos)
